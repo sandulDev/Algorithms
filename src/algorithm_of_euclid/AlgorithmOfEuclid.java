@@ -1,3 +1,5 @@
+package algorithm_of_euclid;
+
 public class AlgorithmOfEuclid {
     public static void main(String[] args) {
         int result = gcd(10, 15);
